@@ -12,10 +12,11 @@ Hierarchical clustering builds a hierarchy of clusters by iteratively merging or
 DBSCAN is a density-based clustering algorithm that groups together data points based on their density. It defines clusters as dense regions separated by sparser areas. DBSCAN can discover clusters of arbitrary shapes, handle noisy data, and does not require specifying the number of clusters in advance. It classifies points as core, border, or noise based on density and connectivity.
 
 # The Dataset
-Column	Description
-CustomerID	An identifier for each customer.
-Gender	Indicates the gender of the customer (Male or Female).
-Age	Represents the age of the customer in years.
-Annual Income (k$)	Denotes the annual income of the customer in thousands of dollars.
-Spending Score (1–100)	A score ranging from 1 to 100 that quantifies the customer’s spending habits and preferences. A higher score indicates a higher tendency to spend.
+
+1. CustomerID - An identifier for each customer.
+2. Gender -	Indicates the gender of the customer (Male or Female).
+3. Age -	Represents the age of the customer in years.
+4. Annual Income (k$) -	Denotes the annual income of the customer in thousands of dollars.
+5. Spending Score (1–100) -	A score ranging from 1 to 100 that quantifies the customer’s spending habits and preferences. A higher score indicates a higher tendency to spend.
+   
 Explore the dataset on Kaggle 🌐 View Dataset
